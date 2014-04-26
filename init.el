@@ -35,6 +35,9 @@
 ;; ツールバーを消す
 (tool-bar-mode -1)
 
+;; ロードパスの設定
+(setq load-path (cons "~/.emacs.d/lisp" load-path))
+
 ;; カーソルの点滅を止める
 ;;(blink-cursor-mode 0)
 
@@ -316,3 +319,11 @@ load-path))
 
 ;; ibufferがデフォルトで起動するようにする
 (global-set-key "\C-x\C-b" 'ibuffer)
+
+;; multi-termの読み込み
+(require 'multi-term)
+(setq multi-term-program "/bin/zsh")
+(setenv "TERMINFO" "~/.terminfo")
+
+;; M-g で指定行へジャンプ
+(global-set-key "\M-s" 'multi-term)

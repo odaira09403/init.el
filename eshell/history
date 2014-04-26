@@ -1,128 +1,128 @@
 ./a.out 
-c++ 110103.cpp
+c++ 110106.cpp 
+c++ 110106.cpp 
+c++ 110106.cpp 
+c++ 110106.cpp 
+c++ 110106.cpp 
 ./a.out 
-c++ 110103.cpp
+c++ 110106.cpp 
 ./a.out 
-c++ 110103.cpp
+c++ 110106.cpp 
 ./a.out 
-c++ 110103.cpp
-./a.out 
-c++ 110103.cpp
-c++ 110103.cpp
-./a.out 
-c++ 110103.cpp
-./a.out 
-./a.out 
-c++ 110103.cpp
-c++ 110103.cpp
-c++ 110103.cpp
-./a.out 
-c++ 110103.cpp
+c++ 110106.cpp 
 ./a.out 
 ./a.out 
-c++ 110103.cpp
+c++ 110106.cpp
 ./a.out 
-c++ 110103.cpp
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+clear
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+./a.out 
+c++ 110106.cpp
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+c++ 110201.cpp
+c++ 110201.cpp
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
 ./a.out 
 ./a.out 
+c++ 110201.cpp
 ./a.out 
-c++ 110103.cpp
+c++ 110201.cpp
 ./a.out 
-c++ 110103.cpp
+c++ 110201.cpp
 ./a.out 
-c++ 110103.cpp
+c++ 110201.cpp
 ./a.out 
-c++ 110103.cpp
+c++ 110201.cpp
 ./a.out 
-c++ 110103.cpp
+c++ 110201.cpp
 ./a.out 
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
+c++ 110201.cpp
+c++ 110201.cpp
 ./a.out 
-c++ 110104.cpp
+c++ 110201.cpp
 ./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+./a.out 
+./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+./a.out 
+./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+./a.out 
+./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+./a.out 
+c++ 110201.cpp
+c++ 110201.cpp
 ./a.out
-c++ 110104.cpp
-./a.out
-c++ 110104.cpp
+c++ 110201.cpp
 ./a.out
 ./a.out
-c++ 110104.cpp
+c++ 110201.cpp
 ./a.out
-c++ 110104.cpp
+c++ 110201.cpp
 ./a.out
-c++ 110104.cpp
+c++ 110203.cpp
+c++ 110203.cpp
+c++ 110203.cpp
+c++ 110203.cpp 
+./a.out 
+./a.out 
+./a.out 
+c++ 110203.cpp 
+c++ 110203.cpp 
+c++ 110203.cpp 
+./a.out 
+./a.out 
+c++ 110203.cpp 
 ./a.out
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-./a.out
-c++ 110104.cpp
-./a.out
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-./a.out 
-./a.out 
-./a.out 
-c++ 110104.cpp
-./a.out 
-./a.out 
-./a.out 
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-./a.out 
-c++ 110104.cpp
-./a.out 
-c++ 110104.cpp
-./a.out 
-./a.out 
-c++ 110104.cpp
-c++ 110103.cpp
-./a.out 
-c++ 110103.cpp
-c++ 110104.cpp
-./a.out 
+ls
+cd .emacs.d/
+mkdir lisp
+ls
+cp multi-term.el ./lisp/
+ls
+cd lisp
+ls
+cd ..
+ls
+rm multi-term.el 
